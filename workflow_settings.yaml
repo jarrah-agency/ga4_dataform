@@ -1,5 +1,5 @@
-defaultProject: your-project-id
-defaultLocation: EU
-defaultDataset: ga4_dataform
-defaultAssertionDataset: ga4_dataform_assertions
+defaultProject: jarrah-docusketch
+defaultLocation: US
+defaultDataset: dataform_ga4
+defaultAssertionDataset: dataform_ga4_assertions
 dataformCoreVersion: 3.0.0-beta.4    
