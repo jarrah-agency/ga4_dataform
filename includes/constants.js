@@ -21,7 +21,7 @@ const SEEDS_DATASET = "dataform_ga4_seed"; /* the database containing the GA4 Bi
 const STAGING_DATASET = "dataform__ga4_staging";
 const INTERMEDIATE_DATASET = "dataform_ga4_intermediate";
 const OUTPUT_DATASET = "dataform_ga4_output";
-const START_DATE = 20230820; /* data will be pulled starting this date */
+const START_DATE = 20240613; /* data will be pulled starting this date */
 const ALL_EVENTS_LOOKBACK_WINDOW = 7776000; /* number of lookback days in seconds when looking at last non-direct session source and non-acquisition conversion events, default is 90 days (86400 seconds in a day)*/
 const AQUISITION_EVENTS_LOOKBACK_WINDOW = 2592000; /* number of lookback days in seconds when looking at acquisition conversion events (first_open and first_visit), default is 30 days (86400 seconds in a day)*/
 
